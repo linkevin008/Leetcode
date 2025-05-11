@@ -1,5 +1,5 @@
 class Solution:
-    def shortestSubstrings(self, arr: List[str]) -> List[str]:
+    def shortestSubstrings(self, arr: list[str]) -> list[str]:
         '''
         find all possible subarrays of each string
 

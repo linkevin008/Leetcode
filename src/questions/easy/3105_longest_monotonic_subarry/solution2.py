@@ -1,5 +1,5 @@
 class Solution:
-    def longestMonotonicSubarray(self, nums: List[int]) -> int:
+    def longestMonotonicSubarray(self, nums: list[int]) -> int:
 
         # Optimal Solution: O(n)
 

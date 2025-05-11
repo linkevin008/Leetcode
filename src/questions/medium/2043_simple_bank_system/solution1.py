@@ -1,6 +1,6 @@
 class Bank:
 
-    def __init__(self, balance: List[int]):
+    def __init__(self, balance: list[int]):
         self.accounts = dict()
 
         for i, individual_balance in enumerate(balance):

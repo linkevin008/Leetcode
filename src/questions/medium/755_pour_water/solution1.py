@@ -1,5 +1,5 @@
 class Solution:
-    def pourWater(self, heights: List[int], volume: int, k: int) -> List[int]:
+    def pourWater(self, heights: list[int], volume: int, k: int) -> list[int]:
         '''
         we need to have volume iterations
         

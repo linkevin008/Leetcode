@@ -1,4 +1,4 @@
- class Solution:
+class Solution:
     def findMin(self, nums: List[int]) -> int:
         '''
         some sort of modified binary search
